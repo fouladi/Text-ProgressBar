@@ -39,6 +39,8 @@ You can also look for information at:
     Search CPAN
         http://search.cpan.org/dist/Text-ProgressBar/
 
+    Repository
+        https://github.com/fouladi/Text-ProgressBar
 
 LICENSE AND COPYRIGHT
 ---------------------
